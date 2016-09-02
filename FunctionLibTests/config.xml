@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <firstpart>
+    <header>
+      <firstline>斾掞峈暘椶  慡僨乕僞</firstline>
+      <index>1</index>
+    </header>
+    <content>
+      <start>BK!tHA</start>
+      <index>4</index>
+      <separator> -</separator>
+      <columns>1,2,3,5,4</columns>
+    </content>
+  </firstpart>
+  <secondpart>
+    <header>
+      <firstline>斾掞峈暘椶  儘僢僩廤寁僨乕僞</firstline>
+      <index>3</index>
+      <dateIndex>2</dateIndex>
+      <line2Index>6</line2Index>
+      <line3Index>7</line3Index>
+    </header>
+    <content>
+      <start>BK!tHA</start>
+      <index>9</index>
+      <lastIndex>2</lastIndex>
+      <separator>BK!tHA;BK!AHA; ;BK&amp;L#mHA;BK&amp;8HACm;BK0J30HA</separator>
+    </content>
+    <footer>
+      <index1>3</index1>
+      <index2>2</index2>
+      <separator>BK8|$_:GBgCMHA; ;BK&amp;L#mHA;BKHfDq93:GBgCMHA;BK&amp;8HACm;BK8|$_:G&gt;.CMHA;BKHfDq93:G&gt;.CMHA;BK8|$_:G&gt;.CMHA</separator>
+    </footer>
+  </secondpart>
+</config>
